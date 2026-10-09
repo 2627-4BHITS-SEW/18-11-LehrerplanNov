@@ -1,0 +1,1883 @@
+{
+    "quelle": "https://www.htl-salzburg.ac.at/lehrerinnen.html",
+    "abgerufenAm": "2026-10-09 12:08",
+    "telefonZentrale": "+43 662 453610",
+    "lehrer": [
+        {
+            "name": "Blin Catarina, Prof. Mag.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/blin-catarina-prof-mag.html"
+        },
+        {
+            "name": "Eybl-Frantik Jitka, Prof. Mag. Dr.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/eybl-frantik-jitka-prof-mag-dr.html"
+        },
+        {
+            "name": "Fally Gunther, Prof. Dipl.-Ing.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/fally-gunther-prof-dipl-ing.html"
+        },
+        {
+            "name": "Frauenschuh Rudolf, Prof. Ing. Mag.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/frauenschuh-rudolf-prof-ing-mag.html"
+        },
+        {
+            "name": "Grössinger Laura, Prof. BEd. MEd.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/gr%C3%B6ssinger-laura-prof-bed-med.html"
+        },
+        {
+            "name": "Irnleitner Norbert, Prof. Dipl.-Ing.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/irnleitner-norbert-prof-dipl-ing.html"
+        },
+        {
+            "name": "Maier Christian, Prof. MMag.(FH)",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/maier-christian-prof-mmag-fh.html"
+        },
+        {
+            "name": "Öller Maria, Prof. Mag. BA",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/%C3%B6ller-maria-prof-mag-ba.html"
+        },
+        {
+            "name": "Ostermeier Josef, StR. Ing.Dipl.-Päd. BEd",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/ostermeier-josef-str-ing-dipl-p%C3%A4d-bed.html"
+        },
+        {
+            "name": "Palir Markus Franz, Prof. Dipl. Ing.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/palir-markus-franz-prof-dipl-ing.html"
+        },
+        {
+            "name": "Passrucker Harald, Prof. Dipl.-Ing. Dr.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/passrucker-harald-prof-dipl-ing-dr.html"
+        },
+        {
+            "name": "Pirker Simone, Prof. B.Ed.Univ.Med.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/pirker-simone-prof-b-ed-univ-med.html"
+        },
+        {
+            "name": "Putz Matthias, FL Ing. BEd",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/putz-matthias-fl-ing-bed.html"
+        },
+        {
+            "name": "Savkovic Nenad, Dipl.-Theol.; Mag.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/savkovic-nenad-dipl-theol-mag.html"
+        },
+        {
+            "name": "Themmel Werner, Prof. Dipl.-Ing.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/themmel-werner-prof-dipl-ing.html"
+        },
+        {
+            "name": "Wenger Anja, Prof. Mag.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/wenger-anja-prof-mag.html"
+        },
+        {
+            "name": "Yilmaz Ahmet",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/yilmaz-ahmet.html"
+        },
+        {
+            "name": "Zachhuber Esther, Prof. Mag.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/zachhuber-esther-prof-mag.html"
+        },
+        {
+            "name": "Zauchner Markus, Prof. Mag.",
+            "raum": "-",
+            "telefonDw": "-",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/zauchner-markus-prof-mag.html"
+        },
+        {
+            "name": "Landertshamer Franz, Dir. Dipl.-Ing. Dr.techn.",
+            "raum": "A001",
+            "telefonDw": "110",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/landertshamer-franz-dir-dipl-ing-dr-techn-a-001.html"
+        },
+        {
+            "name": "Bürtlmair Karl, AV Mag. Dr. rer. nat.",
+            "raum": "A108",
+            "telefonDw": "700",
+            "sprechstunde": "Mittwoch 10:40-11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/b%C3%BCrtlmair-karl-av-mag-dr-rer-nat-a-108.html"
+        },
+        {
+            "name": "Aichriedler Martin, Prof. Dipl.-Ing.",
+            "raum": "A109",
+            "telefonDw": "557",
+            "sprechstunde": "Dienstag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/aichriedler-martin-prof-dipl-ing-a-109.html"
+        },
+        {
+            "name": "Attwenger Thomas, Prof. Dipl.-Ing.",
+            "raum": "A109",
+            "telefonDw": "557",
+            "sprechstunde": "Mittwoch 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/attwenger-thomas-prof-dipl-ing-a-109.html"
+        },
+        {
+            "name": "Brunnauer Johannes, MSc",
+            "raum": "A109",
+            "telefonDw": "557",
+            "sprechstunde": "Dienstag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/brunnauer-johannes-msc-a-109.html"
+        },
+        {
+            "name": "Höller Florian, Prof. Ing. MEd. BSc. BEd.",
+            "raum": "A109",
+            "telefonDw": "557",
+            "sprechstunde": "Mittwoch 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/h%C3%B6ller-florian-prof-ing-med-bsc-bed-a-109.html"
+        },
+        {
+            "name": "Sidler Katrin, Prof. Mag.",
+            "raum": "A109",
+            "telefonDw": "557",
+            "sprechstunde": "Mittwoch 10:40-11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/sidler-katrin-prof-mag-a-109.html"
+        },
+        {
+            "name": "Eichinger Kurt, Prof. Dipl. Ing.",
+            "raum": "A114",
+            "telefonDw": "621",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/eichinger-kurt-prof-dipl-ing-a-114.html"
+        },
+        {
+            "name": "Garnitschnig Susanne, Prof. Mag. rer.nat.",
+            "raum": "A114",
+            "telefonDw": "621",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/garnitschnig-susanne-prof-mag-rer-nat-a114.html"
+        },
+        {
+            "name": "Haas Karl, Prof. Mag.",
+            "raum": "A114",
+            "telefonDw": "621",
+            "sprechstunde": "Dienstag 19:30 - 20:15 Uhr (Raum H204)",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/haas-karl-prof-mag-a-114.html"
+        },
+        {
+            "name": "Hammerer Nina, Prof. Mag.",
+            "raum": "A114",
+            "telefonDw": "621",
+            "sprechstunde": "Donnerstag, 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/hammerer-nina-prof-mag-a-114.html"
+        },
+        {
+            "name": "Hintermayr Thomas, Prof. Mag.",
+            "raum": "A114",
+            "telefonDw": "621",
+            "sprechstunde": "Mittwoch 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/hintermayr-thomas-prof-mag-a-114.html"
+        },
+        {
+            "name": "Horak Verena, Prof. MMMag. DI; Bakk.techn. Bakk.rer.nat.",
+            "raum": "A114",
+            "telefonDw": "621",
+            "sprechstunde": "Montag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/horak-verena-prof-mmmag-di-bakk-techn-bakk-rer-nat-a-114.html"
+        },
+        {
+            "name": "Kainzner Markus, Prof. Mag.",
+            "raum": "A114",
+            "telefonDw": "621",
+            "sprechstunde": "Montag 14:20 - 15:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/kainzner-markus-prof-mag-a-114.html"
+        },
+        {
+            "name": "Sturm Christoph, Prof. Dipl. Ing.",
+            "raum": "A114",
+            "telefonDw": "621",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/sturm-christoph-prof-dipl-ing-a-114.html"
+        },
+        {
+            "name": "Auer Antonia, Mag. Bakk.komm.",
+            "raum": "A208",
+            "telefonDw": "723",
+            "sprechstunde": "Mittwoch 07:45 - 08:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/auer-antonia-mag-bakk-komm-a-208.html"
+        },
+        {
+            "name": "Jarau Elisabeth, Prof. Mag. phil.",
+            "raum": "A208",
+            "telefonDw": "723",
+            "sprechstunde": "Mittwoch 10:40-11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/jarau-elisabeth-prof-mag-phil-a-208.html"
+        },
+        {
+            "name": "Lackner Sigrid, Prof. Mag.",
+            "raum": "A208",
+            "telefonDw": "723",
+            "sprechstunde": "Donnerstag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/lackner-sigrid-prof-mag-a-208.html"
+        },
+        {
+            "name": "Sprague William, Prof. Mag. Dr. phil. MSc, MA, BBA",
+            "raum": "A208",
+            "telefonDw": "723",
+            "sprechstunde": "Montag 09:45 - 10:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/sprague-william-prof-mag-dr-phil-msc-ma-bba-a-208.html"
+        },
+        {
+            "name": "Thalhammer Andrea, Prof. Mag.",
+            "raum": "A208",
+            "telefonDw": "723",
+            "sprechstunde": "Donnerstag, 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/thalhammer-andrea-prof-mag-a-208.html"
+        },
+        {
+            "name": "Bauer Eva, Prof. Mag.",
+            "raum": "A209",
+            "telefonDw": "558",
+            "sprechstunde": "Mittwoch 10:40-11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/bauer-eva-prof-mag-a-209.html"
+        },
+        {
+            "name": "Böhler Andreas, Prof. Dipl.-Ing. (FH) Dr., MLBT",
+            "raum": "A209",
+            "telefonDw": "558",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/b%C3%B6hler-andreas-prof-dipl-ing-fh-dr-mlbt-a-209.html"
+        },
+        {
+            "name": "Kaufmann Maria, Prof. MA.B.rer.nat. BEd",
+            "raum": "A209",
+            "telefonDw": "558",
+            "sprechstunde": "Mittwoch 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/kaufmann-maria-prof-ma-b-rer-nat-bed-a-209.html"
+        },
+        {
+            "name": "Podolan Richard, Prof. Dipl.-Ing. Dr. techn.",
+            "raum": "A209",
+            "telefonDw": "558",
+            "sprechstunde": "Dienstag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/podolan-richard-prof-dipl-ing-dr-techn-a-209.html"
+        },
+        {
+            "name": "Schock Stefan, Prof. MMag.",
+            "raum": "A209",
+            "telefonDw": "558",
+            "sprechstunde": "Freitag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schock-stefan-prof-mmag-a-209.html"
+        },
+        {
+            "name": "Schodermayr Christoph, BSc MSc",
+            "raum": "A209",
+            "telefonDw": "558",
+            "sprechstunde": "Mittwoch12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schodermayr-christoph-bsc-msc-a-209.html"
+        },
+        {
+            "name": "Kistner Anton, Prof. Dipl.-Ing. MBA",
+            "raum": "A212",
+            "telefonDw": "500",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/kistner-anton-prof-dipl-ing-mba-a-212.html"
+        },
+        {
+            "name": "Burgstaller Michael, Prof. Mag.",
+            "raum": "A213",
+            "telefonDw": "230",
+            "sprechstunde": "Montag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/burgstaller-michael-prof-mag-a-213.html"
+        },
+        {
+            "name": "Egger Walter, Prof. Dipl.-Ing. (FH)",
+            "raum": "A213",
+            "telefonDw": "230",
+            "sprechstunde": "Donnerstag 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/egger-walter-prof-dipl-ing-fh-a-213.html"
+        },
+        {
+            "name": "Lindner Reinhard, Prof. Dipl.-Ing.",
+            "raum": "A213",
+            "telefonDw": "230",
+            "sprechstunde": "Dienstag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/lindner-reinhard-prof-dipl-ing-a-213.html"
+        },
+        {
+            "name": "Samhaber Elke, Prof. MMag.",
+            "raum": "A213",
+            "telefonDw": "230",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/samhaber-elke-prof-mmag-a-213.html"
+        },
+        {
+            "name": "Steiner Karl Heinz, Prof. Ing. Dipl.-Ing.",
+            "raum": "A213",
+            "telefonDw": "230",
+            "sprechstunde": "Montag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/steiner-karl-heinz-prof-ing-dipl-ing-a-213.html"
+        },
+        {
+            "name": "Susani-Etzerodt Gerfried, Prof. Dipl.-Ing.",
+            "raum": "A213",
+            "telefonDw": "230",
+            "sprechstunde": "Dienstag 15:20 - 16:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/susani-etzerodt-gerfried-prof-dipl-ing-a-213.html"
+        },
+        {
+            "name": "Lanzendorfer Margit, Prof. Mag.",
+            "raum": "A214",
+            "telefonDw": "521",
+            "sprechstunde": "Donnerstag 14:20 - 15:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/lanzendorfer-margit-prof-mag-a-214.html"
+        },
+        {
+            "name": "Maderecker Georg, Dipl.-Ing. (FH)",
+            "raum": "A214",
+            "telefonDw": "521",
+            "sprechstunde": "Freitag 07:45 - 08:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/maderecker-georg-dipl-ing-fh-a-214.html"
+        },
+        {
+            "name": "Prommegger Bernhard, Prof. Dr. techn.",
+            "raum": "A214",
+            "telefonDw": "521",
+            "sprechstunde": "Dienstag 15:20 - 16:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/prommegger-bernhard-prof-dr-techn-a-214.html"
+        },
+        {
+            "name": "Rauchenschwandtner Birgit, Prof. Dipl.-Ing. BSc BEd",
+            "raum": "A214",
+            "telefonDw": "521",
+            "sprechstunde": "Dienstag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/rauchenschwandtner-birgit-prof-dipl-ing-bsc-bed-a-214.html"
+        },
+        {
+            "name": "Schragl Roman, Prof. Dipl.-Ing.",
+            "raum": "A214",
+            "telefonDw": "521",
+            "sprechstunde": "Montag 09:45 - 10:35 (nach Vereinbarung)",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schragl-roman-prof-dipl-ing-a-214.html"
+        },
+        {
+            "name": "Schrempf Siegbert, Prof. Dipl.-Ing.",
+            "raum": "A214",
+            "telefonDw": "521",
+            "sprechstunde": "Mittwoch 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schrempf-siegbert-prof-dipl-ing-a-214.html"
+        },
+        {
+            "name": "Triebelnig Jürgen, Prof. Dipl.-Ing.",
+            "raum": "A214",
+            "telefonDw": "521",
+            "sprechstunde": "Mittwoch 16:15 - 17:05 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/triebelnig-j%C3%BCrgen-prof-dipl-ing-a-214.html"
+        },
+        {
+            "name": "Trinker Horst, Prof. Mag. Dr.",
+            "raum": "A214",
+            "telefonDw": "521",
+            "sprechstunde": "Montag 09:45 - 10:35 Uhr (Anmeldung per E-Mail)",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/trinker-horst-prof-mag-dr-a-214.html"
+        },
+        {
+            "name": "Baier Julia Katharina, Prof. Mag.",
+            "raum": "A215",
+            "telefonDw": "320",
+            "sprechstunde": "Dienstag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/baier-julia-katharina-prof-mag-a-215.html"
+        },
+        {
+            "name": "Emesz Constanze, Prof. Dr.",
+            "raum": "A215",
+            "telefonDw": "320",
+            "sprechstunde": "nach tel. Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/emesz-constanze-prof-dr-a-215.html"
+        },
+        {
+            "name": "Gimpl Julia, Prof. Mag.",
+            "raum": "A215",
+            "telefonDw": "320",
+            "sprechstunde": "nach Vereinbarung per E-Mail",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/gimpl-julia-prof-mag-a-215.html"
+        },
+        {
+            "name": "Ginzinger Philip, Dipl. Ing. BSc.",
+            "raum": "A215",
+            "telefonDw": "320",
+            "sprechstunde": "nach Vereinbarung per E-Mail",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/ginzinger-philip-dipl-ing-bsc-a-215.html"
+        },
+        {
+            "name": "Pühringer Sabine, Prof. Mag.",
+            "raum": "A215",
+            "telefonDw": "320",
+            "sprechstunde": "Freitags 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/p%C3%BChringer-sabine-prof-mag-a-215.html"
+        },
+        {
+            "name": "Riegler Christian, Prof. Ing. Mag.",
+            "raum": "A215",
+            "telefonDw": "320",
+            "sprechstunde": "Donnerstag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/riegler-christian-prof-ing-mag-a-215.html"
+        },
+        {
+            "name": "Schöchl Lisa, Prof. Mag. phil. BA",
+            "raum": "A215",
+            "telefonDw": "320",
+            "sprechstunde": "Mittwoch 10:40-11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/sch%C3%B6chl-lisa-prof-mag-phil-ba-a-215.html"
+        },
+        {
+            "name": "Schock Elisabeth, Prof. Mag. phil.",
+            "raum": "A215",
+            "telefonDw": "320",
+            "sprechstunde": "Dienstag 11:30 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schock-elisabeth-prof-mag-phil-a-215.html"
+        },
+        {
+            "name": "Brandner Stefan, FL Ing. BEd.",
+            "raum": "B010",
+            "telefonDw": "226",
+            "sprechstunde": "Dienstag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/brandner-stefan-fl-ing-bed-b-010.html"
+        },
+        {
+            "name": "Einböck Fridolin, Prof. Mag.rer.nat.",
+            "raum": "B010",
+            "telefonDw": "226",
+            "sprechstunde": "Montag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/einb%C3%B6ck-fridolin-prof-mag-rer-nat-b-010.html"
+        },
+        {
+            "name": "Lindner Angela, Prof. Dipl.-Ing.",
+            "raum": "B010",
+            "telefonDw": "226",
+            "sprechstunde": "Mittwoch 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/lindner-angela-prof-dipl-ing-b-010.html"
+        },
+        {
+            "name": "Reichenfelser Walter, Prof. Dipl.-Ing. Mag.",
+            "raum": "B010",
+            "telefonDw": "226",
+            "sprechstunde": "Dienstag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/reichenfelser-walter-prof-dipl-ing-mag-b-010.html"
+        },
+        {
+            "name": "Salhofer Harald, Prof. Dipl.-Ing.",
+            "raum": "B010",
+            "telefonDw": "226",
+            "sprechstunde": "Freitag 13:25 - 14:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/salhofer-harald-prof-dipl-ing-b-010.html"
+        },
+        {
+            "name": "Waron Rudolf, Prof. Pfr. Mag.",
+            "raum": "B010",
+            "telefonDw": "226",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/waron-rudolf-prof-pfr-mag-b-010.html"
+        },
+        {
+            "name": "Buchner Herbert, AV Dipl.-Ing. (FH)",
+            "raum": "B109",
+            "telefonDw": "600",
+            "sprechstunde": "Dienstag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/buchner-herbert-av-dipl-ing-fh-b-109.html"
+        },
+        {
+            "name": "Fritz Rüdiger, Prof. Arch. Dipl.-Ing.",
+            "raum": "B110",
+            "telefonDw": "623",
+            "sprechstunde": "Dienstag 08:40 - 09:30 (nach vorhergehender Anmeldung)",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/fritz-r%C3%BCdiger-prof-arch-dipl-ing-b-110.html"
+        },
+        {
+            "name": "Korn Michael, Prof. Arch. Dipl.-Ing.",
+            "raum": "B110",
+            "telefonDw": "623",
+            "sprechstunde": "Dienstag 17:30 - 18:00 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/korn-michael-prof-arch-dipl-ing-b-110.html"
+        },
+        {
+            "name": "Mittermayr Lydia, Prof. Arch. Dipl.-Ing. MA",
+            "raum": "B110",
+            "telefonDw": "623",
+            "sprechstunde": "Montag 12:30-13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/mittermayr-lydia-prof-arch-dipl-ing-ma-b-110.html"
+        },
+        {
+            "name": "Pletzer Thomas, Prof. Arch. Dipl.-Ing.",
+            "raum": "B110",
+            "telefonDw": "623",
+            "sprechstunde": "Mittwoch 14:20 - 15:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/pletzer-thomas-prof-arch-dipl-ing-b-110.html"
+        },
+        {
+            "name": "Schmiedbauer Michael, Prof. MMag. DDr.",
+            "raum": "B110",
+            "telefonDw": "206",
+            "sprechstunde": "Donnerstag 21:05 - 21:50 (14-tägig)",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schmiedbauer-michael-prof-mmag-ddr-b-110.html"
+        },
+        {
+            "name": "Waldmann Petra, Prof. Arch. Dipl.-Ing.",
+            "raum": "B110",
+            "telefonDw": "623",
+            "sprechstunde": "Donnerstag 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/waldmann-petra-prof-arch-dipl-ing-b-110.html"
+        },
+        {
+            "name": "Birgler-Schnell Selina, Prof. Mag. rer.nat",
+            "raum": "B208",
+            "telefonDw": "322",
+            "sprechstunde": "Dienstag 13:25 - 14:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/birgler-schnell-selina-prof-mag-rer-nat-b-208.html"
+        },
+        {
+            "name": "Bleierer Bernhard, Prof. Mag.",
+            "raum": "B208",
+            "telefonDw": "322",
+            "sprechstunde": "Donnerstag, 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/bleierer-bernhard-prof-mag-b-208.html"
+        },
+        {
+            "name": "Holzer Stephanie, Prof. Mag.",
+            "raum": "B208",
+            "telefonDw": "322",
+            "sprechstunde": "Freitag 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/holzer-stephanie-prof-mag-b-208.html"
+        },
+        {
+            "name": "Peneder Sebastian, Prof. MEd",
+            "raum": "B208",
+            "telefonDw": "322",
+            "sprechstunde": "Montag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/peneder-sebastian-prof-med-b-208.html"
+        },
+        {
+            "name": "Dantendorfer Simon, Prof. BSc.",
+            "raum": "B209",
+            "telefonDw": "321",
+            "sprechstunde": "Donnerstag, 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/dantendorfer-simon-prof-bsc-b-209.html"
+        },
+        {
+            "name": "Ferner Johannes, Prof. DI, DI (FH)",
+            "raum": "B209",
+            "telefonDw": "321",
+            "sprechstunde": "Dienstag 13:25 - 14:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/ferner-johannes-prof-di-di-fh-b-209.html"
+        },
+        {
+            "name": "Grünschneder Philipp, Prof. DI",
+            "raum": "B209",
+            "telefonDw": "321",
+            "sprechstunde": "Dienstag 13:25 - 14:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/gr%C3%BCnschneder-philipp-prof-di-b-209.html"
+        },
+        {
+            "name": "Reich Franz, Prof. Dipl.-Ing.",
+            "raum": "B209",
+            "telefonDw": "321",
+            "sprechstunde": "Montag 13:25 - 14:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/reich-franz-prof-dipl-ing-b-209.html"
+        },
+        {
+            "name": "Voitz Angelika, Prof. Mag. phil.",
+            "raum": "B209",
+            "telefonDw": "321",
+            "sprechstunde": "Montag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/voitz-angelika-prof-mag-phil-b-209.html"
+        },
+        {
+            "name": "Eitzinger Martin, Prof. B.Rel.Ed.Univ. BA BA",
+            "raum": "B210",
+            "telefonDw": "224",
+            "sprechstunde": "Mittwoch 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/eitzinger-martin-prof-b-rel-ed-univ-ba-ba-b-210.html"
+        },
+        {
+            "name": "Maxim Benjamin, Prof. Ing. Dipl.-Ing. MSc",
+            "raum": "B210",
+            "telefonDw": "224",
+            "sprechstunde": "Dienstag 14:20 - 15:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/maxim-benjamin-prof-ing-dipl-ing-msc-b-210.html"
+        },
+        {
+            "name": "Milla Selina, Prof. Dipl.-Ing. MSc",
+            "raum": "B210",
+            "telefonDw": "224",
+            "sprechstunde": "Dienstag 14:20 - 15:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/milla-selina-prof-dipl-ing-msc-b-210.html"
+        },
+        {
+            "name": "Wintersteller Stefan Prof. Dipl.-Ing. (FH)",
+            "raum": "B210",
+            "telefonDw": "224",
+            "sprechstunde": "Donnerstag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/wintersteller-stefan-prof-dipl-ing-fh-b-210.html"
+        },
+        {
+            "name": "Holzer Roland, Prof. Dipl.-Ing.(FH)",
+            "raum": "B211",
+            "telefonDw": "300",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/holzer-roland-prof-dipl-ing-fh-b-211.html"
+        },
+        {
+            "name": "Neuhuber Wolfgang, AV Prof. Mag.",
+            "raum": "B212",
+            "telefonDw": "800",
+            "sprechstunde": "Donnerstag 17:10 - 18:00 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/neuhuber-wolfgang-av-prof-mag-b-212.html"
+        },
+        {
+            "name": "Brenter Bernd-Eric, Prof. Dipl.-Ing. Dr.",
+            "raum": "B303",
+            "telefonDw": "423",
+            "sprechstunde": "Freitag 11:35 - 12:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/brenter-bernd-eric-prof-dipl-ing-dr-b-303.html"
+        },
+        {
+            "name": "Schulhofer Armin, Prof. Dipl.-Ing.",
+            "raum": "B303",
+            "telefonDw": "423",
+            "sprechstunde": "Montag 12:30-13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schulhofer-armin-prof-dipl-ing-b-303.html"
+        },
+        {
+            "name": "Strobl Rupert, Prof. Dipl.-Ing.",
+            "raum": "B303",
+            "telefonDw": "423",
+            "sprechstunde": "Mittwoch 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/strobl-rupert-prof-dipl-ing-b-303.html"
+        },
+        {
+            "name": "Anzengruber Johannes, Prof. Dipl.-Ing.",
+            "raum": "B304",
+            "telefonDw": "420",
+            "sprechstunde": "Montag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/anzengruber-johannes-prof-dipl-ing-b-304.html"
+        },
+        {
+            "name": "Freinschlag Andreas, Prof. Dr.",
+            "raum": "B304",
+            "telefonDw": "420",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/freinschlag-andreas-prof-dr-b-304.html"
+        },
+        {
+            "name": "Grundwalt Stefan, MMag.",
+            "raum": "B304",
+            "telefonDw": "420",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/grundwalt-stefan-mmag-b-304.html"
+        },
+        {
+            "name": "Steinbauer Peter, Med, BSc",
+            "raum": "B304",
+            "telefonDw": "420",
+            "sprechstunde": "Dienstag 15:20 - 16:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/steinbauer-peter-med-bsc-b-304.html"
+        },
+        {
+            "name": "Wegscheider Mario, Prof. Mag. phil.",
+            "raum": "B304",
+            "telefonDw": "420",
+            "sprechstunde": "Donnerstag 11:35 - 12:25 Uhr oder via Vereinbarung lt. E-Mail",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/wegscheider-mario-prof-mag-phil-b-304.html"
+        },
+        {
+            "name": "Leditznig Karin, Prof. Mag.",
+            "raum": "B305",
+            "telefonDw": "421",
+            "sprechstunde": "Freitag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/leditznig-karin-prof-mag-b-305.html"
+        },
+        {
+            "name": "Mayr Joachim, Prof. Dipl.-Ing.",
+            "raum": "B305",
+            "telefonDw": "421",
+            "sprechstunde": "Donnerstag 14:20 - 15:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/mayr-joachim-prof-dipl-ing-b-305.html"
+        },
+        {
+            "name": "Niedermoser Alexander, Prof. LLM",
+            "raum": "B305",
+            "telefonDw": "421",
+            "sprechstunde": "Freitag 13:25 - 14:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/niedermoser-alexander-prof-llm-b-305.html"
+        },
+        {
+            "name": "Schwarzenbacher Barbara, MA",
+            "raum": "B305",
+            "telefonDw": "421",
+            "sprechstunde": "Mittwoch 13:25 - 14:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schwarzenbacher-barbara-ma-b-305.html"
+        },
+        {
+            "name": "Wieser Bianca, Prof. MEd,BEd",
+            "raum": "B305",
+            "telefonDw": "231",
+            "sprechstunde": "Mittwoch 14:20 - 15:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/wieser-bianca-prof-medbed-b-305.html"
+        },
+        {
+            "name": "Illmer Michael, Prof. Mag.",
+            "raum": "B310",
+            "telefonDw": "422",
+            "sprechstunde": "Freitag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/illmer-michael-prof-mag-b-310.html"
+        },
+        {
+            "name": "Kowarik Thomas, Prof. Dipl.-Ing. Dr.",
+            "raum": "B310",
+            "telefonDw": "422",
+            "sprechstunde": "Dienstag 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/kowarik-thomas-prof-dipl-ing-dr-b-310.html"
+        },
+        {
+            "name": "Mulic Elma, Prof. MEd",
+            "raum": "B310",
+            "telefonDw": "422",
+            "sprechstunde": "Dienstag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/mulic-elma-prof-med-b-310.html"
+        },
+        {
+            "name": "Marx Herbert, Prof. Dipl.-Ing.",
+            "raum": "B311",
+            "telefonDw": "721",
+            "sprechstunde": "Donnerstag, 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/marx-herbert-prof-dipl-ing-b-311.html"
+        },
+        {
+            "name": "Weichenberger Thomas, Prof. Dipl.-Ing.",
+            "raum": "B311",
+            "telefonDw": "721",
+            "sprechstunde": "Mittwoch 18:45 - 19:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/weichenberger-thomas-prof-dipl-ing-b-311.html"
+        },
+        {
+            "name": "Grossmaier Maria-Rosa, Prof. BEd. Univ. MEd.",
+            "raum": "B312",
+            "telefonDw": "228",
+            "sprechstunde": "Montag 10:30 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/grossmaier-maria-rosa-prof-bed-univ-med-b-312.html"
+        },
+        {
+            "name": "Weinberger Christiane, Prof. Mag.",
+            "raum": "B312",
+            "telefonDw": "228",
+            "sprechstunde": "Dienstag 08:40 - 09:30 Uhr (oder nach Vereinbarung)",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/weinberger-christiane-prof-mag-b-312.html"
+        },
+        {
+            "name": "Zeilinger Katharina, Prof. BEd.Univ.MEd.",
+            "raum": "B312",
+            "telefonDw": "228",
+            "sprechstunde": "Mittwoch 10:40-11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/zeilinger-katharina-prof-bed-univ-med-b-312.html"
+        },
+        {
+            "name": "Feichtinger Daniel, Prof. Mag.",
+            "raum": "B313",
+            "telefonDw": "229",
+            "sprechstunde": "Dienstag 09:45 - 10:40 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/feichtinger-daniel-prof-mag-b-313.html"
+        },
+        {
+            "name": "Lachinger Manuela, Prof. Mag.phil",
+            "raum": "B313",
+            "telefonDw": "229",
+            "sprechstunde": "Montag 13:20 - 14:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/lachinger-manuela-prof-mag-phil-b-313.html"
+        },
+        {
+            "name": "Schneeweiß Birgit, Prof. MMMag.",
+            "raum": "B313",
+            "telefonDw": "229",
+            "sprechstunde": "Donnerstag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schneewei%C3%9F-birgit-prof-mmmag-b-313.html"
+        },
+        {
+            "name": "Ebner Philipp, Prof. Dipl. Ing.",
+            "raum": "B314",
+            "telefonDw": "424",
+            "sprechstunde": "Montag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/ebner-philipp-prof-dipl-ing-b-314.html"
+        },
+        {
+            "name": "Reiter Gerald, Dipl.-Ing.",
+            "raum": "B314",
+            "telefonDw": "424",
+            "sprechstunde": "Montag 10:00 - 11:00 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/reiter-gerald-dipl-ing-b-314.html"
+        },
+        {
+            "name": "Schwingenschlögel Thomas, Prof. Dipl.-Ing.",
+            "raum": "B314",
+            "telefonDw": "424",
+            "sprechstunde": "Montag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schwingenschl%C3%B6gel-thomas-prof-dipl-ing-b-314.html"
+        },
+        {
+            "name": "Schaber Stephan, FL Ing. Dipl.-Päd.",
+            "raum": "C007",
+            "telefonDw": "556",
+            "sprechstunde": "Dienstag 16:05 - 16:55 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schaber-stephan-fl-ing-dipl-p%C3%A4d-c-007.html"
+        },
+        {
+            "name": "Hörl Jakob, Prof. MMag.",
+            "raum": "C010",
+            "telefonDw": "222",
+            "sprechstunde": "Freitag 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/h%C3%B6rl-jakob-prof-mmag-c-010.html"
+        },
+        {
+            "name": "Kletzl Hilde, Prof. Mag. Dr.",
+            "raum": "C010",
+            "telefonDw": "222",
+            "sprechstunde": "Donnerstag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/kletzl-hilde-prof-mag-dr-c-010.html"
+        },
+        {
+            "name": "Marko Franziska, Prof. Mag.phil.",
+            "raum": "C010",
+            "telefonDw": "222",
+            "sprechstunde": "Mittwoch 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/marko-franziska-prof-mag-phil-c-010.html"
+        },
+        {
+            "name": "Schwabl Patrick, Ing. Dipl.-Ing. (FH)",
+            "raum": "C010",
+            "telefonDw": "222",
+            "sprechstunde": "Montag 13:20 - 14:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schwabl-patrick-ing-dipl-ing-fh-c-010.html"
+        },
+        {
+            "name": "Seer Martin, Prof. Dipl. Ing; FH",
+            "raum": "C010",
+            "telefonDw": "222",
+            "sprechstunde": "nach Vereinbarung über Teams",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/seer-martin-prof-dipl-ing-fh-c-010.html"
+        },
+        {
+            "name": "Streif Michael, Prof. Mag. phil.",
+            "raum": "C010",
+            "telefonDw": "222",
+            "sprechstunde": "Mittwoch 11:35 - 12:25 Uhr(TS) und Mittwoch 19:30 - 20:15(AS)",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/streif-michael-prof-mag-phil-c-010.html"
+        },
+        {
+            "name": "Enzesberger Johann, OStR Prof. Arch. Dipl.-Ing.",
+            "raum": "C104",
+            "telefonDw": "620",
+            "sprechstunde": "Dienstag 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/enzesberger-johann-ostr-prof-arch-dipl-ing-c-104.html"
+        },
+        {
+            "name": "Hofer Andreas, Prof. Arch. Dipl.-Ing.",
+            "raum": "C104",
+            "telefonDw": "620",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/hofer-andreas-prof-arch-dipl-ing-c-104.html"
+        },
+        {
+            "name": "Hosp Lukas, Prof. Arch. Dipl.-Ing.",
+            "raum": "C104",
+            "telefonDw": "620",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/hosp-lukas-prof-arch-dipl-ing-c-104.html"
+        },
+        {
+            "name": "Krallinger Rupert, Prof. Arch. Dipl.-Ing.",
+            "raum": "C104",
+            "telefonDw": "620",
+            "sprechstunde": "Dienstag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/krallinger-rupert-prof-arch-dipl-ing-c-104.html"
+        },
+        {
+            "name": "Simmerstatter Maria, Prof. Arch. Dipl.-Ing.",
+            "raum": "C104",
+            "telefonDw": "620",
+            "sprechstunde": "Freitag 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/simmerstatter-maria-prof-arch-dipl-ing-c-104.html"
+        },
+        {
+            "name": "Trauner Stephan, Prof. Arch. Dipl.-Ing.",
+            "raum": "C104",
+            "telefonDw": "620",
+            "sprechstunde": "Freitag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/trauner-stephan-prof-arch-dipl-ing-c-104.html"
+        },
+        {
+            "name": "Birglechner Johann, Prof. Dipl.-Ing. Dr.",
+            "raum": "C105",
+            "telefonDw": "622",
+            "sprechstunde": "Mittwoch 18:45 - 19:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/birglechner-johann-prof-dipl-ing-dr-c-105.html"
+        },
+        {
+            "name": "Brückl Johann, Prof. Dipl.-Ing. Dr. nat. techn.",
+            "raum": "C105",
+            "telefonDw": "622",
+            "sprechstunde": "Wintersemester: Dienstag 18:45-19:30 Uhr, Sommersemester: Dienstag 17:15-18:00 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/br%C3%BCckl-johann-prof-dipl-ing-dr-nat-techn-c-105.html"
+        },
+        {
+            "name": "Fuchs Klaus, Prof. Dipl.-Ing. Dr.techn.",
+            "raum": "C105",
+            "telefonDw": "622",
+            "sprechstunde": "Donnerstag, 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/fuchs-klaus-prof-dipl-ing-dr-techn-c-105.html"
+        },
+        {
+            "name": "Gostner Robert, Prof. Dipl.-Ing.",
+            "raum": "C105",
+            "telefonDw": "622",
+            "sprechstunde": "Montag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/gostner-robert-prof-dipl-ing-c-105.html"
+        },
+        {
+            "name": "Hofauer Michael, Prof. Dipl. Ing. BEd",
+            "raum": "C105",
+            "telefonDw": "622",
+            "sprechstunde": "Mittwoch 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/hofauer-michael-prof-dipl-ing-bed-c-105.html"
+        },
+        {
+            "name": "Stöger Michaela, Prof. MEd, BEd",
+            "raum": "C105",
+            "telefonDw": "622",
+            "sprechstunde": "Freitag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/st%C3%B6ger-michaela-prof-med-bed-c-105.html"
+        },
+        {
+            "name": "Trenker Martin, Prof. Dipl.-Ing.",
+            "raum": "C105",
+            "telefonDw": "622",
+            "sprechstunde": "Donnerstag, 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/trenker-martin-prof-dipl-ing-c-105.html"
+        },
+        {
+            "name": "Auer Melanie, Prof. Mag.",
+            "raum": "C112",
+            "telefonDw": "720",
+            "sprechstunde": "Donnerstag, 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/auer-melanie-prof-mag-c-112.html"
+        },
+        {
+            "name": "Bruckschwaiger Claudia, Prof. Mag. (FH)",
+            "raum": "C112",
+            "telefonDw": "720",
+            "sprechstunde": "Mittwoch 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/bruckschwaiger-claudia-prof-mag-fh-c-112.html"
+        },
+        {
+            "name": "Gollackner-Preuß Anna Katharina, Prof. Mag.",
+            "raum": "C112",
+            "telefonDw": "720",
+            "sprechstunde": "Montag 08:40 - 09:25 Uhr (nach Vereinbarung)",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/gollackner-preu%C3%9F-anna-katharina-prof-mag-c112.html"
+        },
+        {
+            "name": "Kern Jasmin, Prof. BEd",
+            "raum": "C112",
+            "telefonDw": "720",
+            "sprechstunde": "Freitag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/kern-jasmin-prof-bed-c-112.html"
+        },
+        {
+            "name": "Lampert Armin, Prof. Bakk.phil. MA",
+            "raum": "C112",
+            "telefonDw": "720",
+            "sprechstunde": "Dienstag 14:20 - 15:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/lampert-armin-prof-bakk-phil-ma-c-112.html"
+        },
+        {
+            "name": "Selke Sascha, Prof. Mag. phil.",
+            "raum": "C112",
+            "telefonDw": "720",
+            "sprechstunde": "Dienstag 13:25 - 14:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/selke-sascha-prof-mag-phil-c-112.html"
+        },
+        {
+            "name": "Bauchinger Anne, Prof. MA",
+            "raum": "C113",
+            "telefonDw": "724",
+            "sprechstunde": "Freitag 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/bauchinger-anne-prof-ma-c-113.html"
+        },
+        {
+            "name": "Baumgartner Stefan, Prof. MA",
+            "raum": "C113",
+            "telefonDw": "724",
+            "sprechstunde": "Donnerstag, 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/baumgartner-stefan-prof-ma-c-113.html"
+        },
+        {
+            "name": "Butter Hermann, Prof. Mag. (FH)",
+            "raum": "C113",
+            "telefonDw": "724",
+            "sprechstunde": "Montag 14:20 - 15:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/butter-hermann-prof-mag-fh-c-113.html"
+        },
+        {
+            "name": "Mayr André, Prof. MA BEd",
+            "raum": "C113",
+            "telefonDw": "724",
+            "sprechstunde": "Dienstag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/mayr-andr%C3%A9-prof-ma-bed-c-113.html"
+        },
+        {
+            "name": "Wohlfart Renate, Prof. Dipl.-Ing. (FH)",
+            "raum": "C113",
+            "telefonDw": "724",
+            "sprechstunde": "Freitag 13:20 - 14:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/wohlfart-renate-prof-dipl-ing-fh-c-113.html"
+        },
+        {
+            "name": "Höfer Kathrin Maria, Prof. Mag.",
+            "raum": "C114",
+            "telefonDw": "722",
+            "sprechstunde": "Dienstag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/h%C3%B6fer-kathrin-maria-prof-mag-c-114.html"
+        },
+        {
+            "name": "Ingruber Melanie, Prof. Mag. phil.",
+            "raum": "C114",
+            "telefonDw": "722",
+            "sprechstunde": "Mittwoch 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/ingruber-melanie-prof-mag-phil-c-114.html"
+        },
+        {
+            "name": "Manfe Michael, Prof. Dr.",
+            "raum": "C114",
+            "telefonDw": "722",
+            "sprechstunde": "Mittwoch 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/manfe-michael-prof-dr-c-114.html"
+        },
+        {
+            "name": "Mayr Manfred, Prof. Ing. MMag. Dr., MBA",
+            "raum": "C114",
+            "telefonDw": "722",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/mayr-manfred-prof-ing-mmag-dr-mba-c-114.html"
+        },
+        {
+            "name": "Peyker Karin, Prof. Mag. Dipl.art.",
+            "raum": "C114",
+            "telefonDw": "722",
+            "sprechstunde": "Dienstag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/peyker-karin-prof-mag-dipl-art-c-114.html"
+        },
+        {
+            "name": "Schweiger Olivia, Prof. Mag.",
+            "raum": "C114",
+            "telefonDw": "722",
+            "sprechstunde": "Mittwoch 10:40-11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schweiger-olivia-prof-mag-c-114.html"
+        },
+        {
+            "name": "Damhofer Norbert, OStR Prof. Mag.",
+            "raum": "C204",
+            "telefonDw": "225",
+            "sprechstunde": "Montag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/damhofer-norbert-ostr-prof-mag-c-204.html"
+        },
+        {
+            "name": "Reischl Bernhard, BEd.",
+            "raum": "C204",
+            "telefonDw": "225",
+            "sprechstunde": "Montag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/reischl-bernhard-bed-c-204.html"
+        },
+        {
+            "name": "Schallaböck Thomas, PProf. MAS",
+            "raum": "C204",
+            "telefonDw": "225",
+            "sprechstunde": "Dienstag 13:25 - 14:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schallab%C3%B6ck-thomas-pprof-mas-c-204.html"
+        },
+        {
+            "name": "Schiendorfer Josef, Prof. Mag.",
+            "raum": "C204",
+            "telefonDw": "225",
+            "sprechstunde": "Dienstag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schiendorfer-josef-prof-mag-c-204.html"
+        },
+        {
+            "name": "Teubl Peter, Prof. Mag. phil.",
+            "raum": "C204",
+            "telefonDw": "225",
+            "sprechstunde": "Dienstag 15:20 - 16:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/teubl-peter-prof-mag-phil-c-204.html"
+        },
+        {
+            "name": "Benedikter Reinhold , Prof. Dipl.-Ing.",
+            "raum": "C205",
+            "telefonDw": "323",
+            "sprechstunde": "Mittwoch 17:10 - 18:0 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/benedikter-reinhold-prof-dipl-ing-c-205.html"
+        },
+        {
+            "name": "Fischer Johannes, Prof. Dipl.-Ing.",
+            "raum": "C205",
+            "telefonDw": "323",
+            "sprechstunde": "Donnerstag 13:25 - 14:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/fischer-johannes-prof-dipl-ing-c-205.html"
+        },
+        {
+            "name": "Huemer Timo, Prof. Dipl.-Ing.",
+            "raum": "C205",
+            "telefonDw": "323",
+            "sprechstunde": "Dienstag 13:25 - 14:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/huemer-timo-prof-dipl-ing-c-205.html"
+        },
+        {
+            "name": "Mühlbacher Jakob, Prof. Dipl.-Ing.",
+            "raum": "C205",
+            "telefonDw": "323",
+            "sprechstunde": "Freitag 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/m%C3%BChlbacher-jakob-prof-dipl-ing-c-205.html"
+        },
+        {
+            "name": "Schmidt Rainer, Prof. Ing. Mag. Dr.",
+            "raum": "C205",
+            "telefonDw": "323",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schmidt-rainer-prof-ing-mag-dr-c-205.html"
+        },
+        {
+            "name": "Schweiberer Franz, Prof. Dipl.-Ing.",
+            "raum": "C205",
+            "telefonDw": "323",
+            "sprechstunde": "Freitag 09:35 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schweiberer-franz-prof-dipl-ing-c-205.html"
+        },
+        {
+            "name": "Fränzl Gotthard, FOL Ing. Dipl.-Päd.",
+            "raum": "C212",
+            "telefonDw": "324",
+            "sprechstunde": "Mittwoch 12:30 - 13:20 (Raum G108)",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/fr%C3%A4nzl-gotthard-fol-ing-dipl-p%C3%A4d-c-212.html"
+        },
+        {
+            "name": "Kargl Markus, Prof. Ing. Dipl.-Ing. BSc. BEd.",
+            "raum": "C212",
+            "telefonDw": "324",
+            "sprechstunde": "Montag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/kargl-markus-prof-ing-dipl-ing-bsc-bed-c-212.html"
+        },
+        {
+            "name": "Rieder Manfred, FL Dipl.-Päd.",
+            "raum": "C212",
+            "telefonDw": "324",
+            "sprechstunde": "Montag 13:20 - 14:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/rieder-manfred-fl-dipl-p%C3%A4d-c-212.html"
+        },
+        {
+            "name": "Fuchs Robert, Prof. Dipl.-Ing.",
+            "raum": "C213",
+            "telefonDw": "325",
+            "sprechstunde": "Montag 13:25 - 14:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/fuchs-robert-prof-dipl-ing-c-213.html"
+        },
+        {
+            "name": "Kattner Günther, Prof. Dipl.-Ing.",
+            "raum": "C213",
+            "telefonDw": "325",
+            "sprechstunde": "Mittwoch 10:40-11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/kattner-g%C3%BCnther-prof-dipl-ing-c-213.html"
+        },
+        {
+            "name": "Lindmoser Peter, Prof. Dipl.-Ing.",
+            "raum": "C213",
+            "telefonDw": "325",
+            "sprechstunde": "Dienstag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/lindmoser-peter-prof-dipl-ing-c-213.html"
+        },
+        {
+            "name": "Reinhart Adolf, Prof. Mag. iur.; Dipl.-Ing. MBA",
+            "raum": "C213",
+            "telefonDw": "325",
+            "sprechstunde": "Freitag 09:30 - 09:45 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/reinhart-adolf-prof-mag-iur-dipl-ing-mba-c-213.html"
+        },
+        {
+            "name": "Bachinger Martina, Prof. Mag.",
+            "raum": "C214",
+            "telefonDw": "220",
+            "sprechstunde": "Mittwoch 15:20 - 16:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/bachinger-martina-prof-mag-c-214.html"
+        },
+        {
+            "name": "Holzmüller Sarah, MA",
+            "raum": "C214",
+            "telefonDw": "220",
+            "sprechstunde": "Montag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/holzm%C3%BCller-sarah-ma-c-214.html"
+        },
+        {
+            "name": "Sinnhofer Sandra, Prof. Mag.",
+            "raum": "C214",
+            "telefonDw": "220",
+            "sprechstunde": "Montag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/sinnhofer-sandra-prof-mag-c-214.html"
+        },
+        {
+            "name": "Wintersteller Silvia, Prof. Mag.",
+            "raum": "C214",
+            "telefonDw": "220",
+            "sprechstunde": "Montag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/wintersteller-silvia-prof-mag-c-214.html"
+        },
+        {
+            "name": "Sollereder Raphaela Sophia, BEd",
+            "raum": "C215",
+            "telefonDw": "320",
+            "sprechstunde": "Donnerstag 13:25 - 14:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/sollereder-raphaela-sophia-bed-c-215.html"
+        },
+        {
+            "name": "Grutschnig Richard, AV Dipl.-Ing.",
+            "raum": "C312",
+            "telefonDw": "400",
+            "sprechstunde": "Montag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/grutschnig-richard-av-dipl-ing-c-312.html"
+        },
+        {
+            "name": "Bachinger Reinhard, Prof. MMag. MSc",
+            "raum": "C313",
+            "telefonDw": "425",
+            "sprechstunde": "Donnerstag 19:30 - 20:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/bachinger-reinhard-prof-mmag-msc-c-313.html"
+        },
+        {
+            "name": "Kalkan Mehmet, Prof. Dipl.Pol.Wiss. MA",
+            "raum": "C313",
+            "telefonDw": "425",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/kalkan-mehmet-prof-dipl-pol-wiss-ma-c-313.html"
+        },
+        {
+            "name": "Schmid Josef, Prof. Dipl.-Ing.",
+            "raum": "C313",
+            "telefonDw": "425",
+            "sprechstunde": "Mittwoch 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schmid-josef-prof-dipl-ing-c-313.html"
+        },
+        {
+            "name": "Schuller Gerhard, Prof. Mag. phil.",
+            "raum": "D 114 / D001",
+            "telefonDw": "227 / 180",
+            "sprechstunde": "Montag 15:20 - 16:10 Uhr/D001",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schuller-gerhard-prof-mag-phil-d-114-d001.html"
+        },
+        {
+            "name": "Straßl Wolfgang, FL Ing. Dipl.-Päd.",
+            "raum": "D104",
+            "telefonDw": "375",
+            "sprechstunde": "Dienstag 11:30 - 12:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/stra%C3%9Fl-wolfgang-fl-ing-dipl-p%C3%A4d-d-104.html"
+        },
+        {
+            "name": "Hablitschek Michael, FL Dipl.-Päd.",
+            "raum": "D112a",
+            "telefonDw": "385",
+            "sprechstunde": "Donnerstag 11:30 - 12:00 Uhr nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/hablitschek-michael-fl-dipl-p%C3%A4d-d-112a.html"
+        },
+        {
+            "name": "Häuserer Stephan, FL Dipl. Päd.",
+            "raum": "D112a",
+            "telefonDw": "385",
+            "sprechstunde": "Mittwoch 11:40 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/h%C3%A4userer-stephan-fl-dipl-p%C3%A4d-d-112a.html"
+        },
+        {
+            "name": "Laimer Hannes, FL Ing. BEd.",
+            "raum": "D112a",
+            "telefonDw": "385",
+            "sprechstunde": "Freitag 16:15 - 17:05 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/laimer-hannes-fl-ing-bed-d-112a.html"
+        },
+        {
+            "name": "Laimer Markus, FL BEd.",
+            "raum": "D112a",
+            "telefonDw": "385",
+            "sprechstunde": "Mittwoch 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/laimer-markus-fl-bed-d-112a.html"
+        },
+        {
+            "name": "Biberger Amelie, Prof. Mag.rer.nat.",
+            "raum": "D113",
+            "telefonDw": "625",
+            "sprechstunde": "Dienstag 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/biberger-amelie-prof-mag-rer-nat-d-113.html"
+        },
+        {
+            "name": "Friedmann Lily, Prof. Mag.",
+            "raum": "D113",
+            "telefonDw": "625",
+            "sprechstunde": "Montag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/friedmann-lily-prof-mag-d-113.html"
+        },
+        {
+            "name": "Ginzinger Peter, Prof. Dipl.-Ing.",
+            "raum": "D113",
+            "telefonDw": "625",
+            "sprechstunde": "Montag 14:20 - 15:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/ginzinger-peter-prof-dipl-ing-d-113.html"
+        },
+        {
+            "name": "Kurzweil Bernhard, Prof. Arch. Dipl.-Ing.",
+            "raum": "D113",
+            "telefonDw": "625",
+            "sprechstunde": "Dienstag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/kurzweil-bernhard-prof-arch-dipl-ing-d-113.html"
+        },
+        {
+            "name": "Lugner Alexander, Prof. Arch. Dipl.-Ing.",
+            "raum": "D113",
+            "telefonDw": "625",
+            "sprechstunde": "Mittwoch 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/lugner-alexander-prof-arch-dipl-ing-d-113.html"
+        },
+        {
+            "name": "Schröckenfuchs Kristina, Prof. Mag.",
+            "raum": "D113",
+            "telefonDw": "625",
+            "sprechstunde": "Donnerstag, 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schr%C3%B6ckenfuchs-kristina-prof-mag-d-113.html"
+        },
+        {
+            "name": "Schäfer Lothar, Prof. Mag. Dipl.-Ing.",
+            "raum": "D114",
+            "telefonDw": "227",
+            "sprechstunde": "Mittwoch 17:10 - 18:00 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/sch%C3%A4fer-lothar-prof-mag-dipl-ing-d-114.html"
+        },
+        {
+            "name": "Schulmeister Günter, Mag.(FH)",
+            "raum": "D114",
+            "telefonDw": "227",
+            "sprechstunde": "Nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schulmeister-g%C3%BCnter-mag-fh-d-114.html"
+        },
+        {
+            "name": "Schulmeister Teodora, Prof. Dipl.-Ing.",
+            "raum": "D114",
+            "telefonDw": "227",
+            "sprechstunde": "Donnerstag 11:45 - 12:25 Uhr bzw. nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schulmeister-teodora-prof-dipl-ing-d-114.html"
+        },
+        {
+            "name": "Steindl Barbara, Prof. Arch. Dipl. Ing. BEd",
+            "raum": "D114",
+            "telefonDw": "227",
+            "sprechstunde": "Mittwoch 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/steindl-barbara-prof-arch-dipl-ing-bed-d-114.html"
+        },
+        {
+            "name": "Timmerer-Maier Verena, Prof. Mag. Dr.",
+            "raum": "D114",
+            "telefonDw": "227",
+            "sprechstunde": "Montag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/timmerer-maier-verena-prof-mag-dr-d-114.html"
+        },
+        {
+            "name": "Widmann Maria, Prof. Mag.",
+            "raum": "D114",
+            "telefonDw": "227",
+            "sprechstunde": "Freitag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/widmann-maria-prof-mag-d-114.html"
+        },
+        {
+            "name": "Al-Sarray Hussein, Dipl.-Ing.",
+            "raum": "D115",
+            "telefonDw": "624",
+            "sprechstunde": "Mittwoch 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/al-sarray-hussein-dipl-ing-d-115.html"
+        },
+        {
+            "name": "Bauer Bernadette, Prof. Mag. phil.",
+            "raum": "D115",
+            "telefonDw": "624",
+            "sprechstunde": "Mittwoch 10:40-11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/bauer-bernadette-prof-mag-phil-d-115.html"
+        },
+        {
+            "name": "Duran-Bastak Miloslav, Prof. Dipl.-Ing.",
+            "raum": "D115",
+            "telefonDw": "624",
+            "sprechstunde": "Donnerstag 15:20-16:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/duran-bastak-miloslav-prof-dipl-ing-d-115.html"
+        },
+        {
+            "name": "Fellinghauer Martin, Prof. Dipl.-Ing.",
+            "raum": "D115",
+            "telefonDw": "624",
+            "sprechstunde": "Mittwoch 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/fellinghauer-martin-prof-dipl-ing-d-115.html"
+        },
+        {
+            "name": "Mösl Matthias, Prof. Dipl. Ing. FH",
+            "raum": "D115",
+            "telefonDw": "624",
+            "sprechstunde": "Donnerstag, 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/m%C3%B6sl-matthias-prof-dipl-ing-fh-d-115.html"
+        },
+        {
+            "name": "Öhlinger Bernhard, Prof. MMag. Dr.",
+            "raum": "D115",
+            "telefonDw": "624",
+            "sprechstunde": "Mittwoch 10:40-11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/%C3%B6hlinger-bernhard-prof-mmag-dr-d-115.html"
+        },
+        {
+            "name": "Lindmoser Johannes, Prof. Dipl.-Ing.",
+            "raum": "D207",
+            "telefonDw": "520",
+            "sprechstunde": "Mittwoch 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/lindmoser-johannes-prof-dipl-ing-d-207.html"
+        },
+        {
+            "name": "Offenhuber Michael, Prof. Dipl.-Ing.",
+            "raum": "D207",
+            "telefonDw": "520",
+            "sprechstunde": "Dienstag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/offenhuber-michael-prof-dipl-ing-d-207.html"
+        },
+        {
+            "name": "Vogl Robert, Prof. Dipl.-Ing.",
+            "raum": "D207",
+            "telefonDw": "520",
+            "sprechstunde": "Mittwoch 16:15 - 17:05 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/vogl-robert-prof-dipl-ing-d-207.html"
+        },
+        {
+            "name": "Rottler Wolfgang, Prof. Mag. rer.nat.",
+            "raum": "D305",
+            "telefonDw": "231",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/rottler-wolfgang-prof-mag-rer-nat-d-305.html"
+        },
+        {
+            "name": "Struber Fritz, Prof. Dr.",
+            "raum": "D305",
+            "telefonDw": "231",
+            "sprechstunde": "Dienstag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/struber-fritz-prof-dr-d-305.html"
+        },
+        {
+            "name": "Wen Norbert, FL Ing. Dipl.-Päd.",
+            "raum": "E 209  (Leiterplattentechnik)",
+            "telefonDw": "550",
+            "sprechstunde": "Montag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/wen-norbert-fl-ing-dipl-p%C3%A4d-e-209-leiterplattentechnik.html"
+        },
+        {
+            "name": "Höfner Johann, FL Dipl. Päd.",
+            "raum": "E005",
+            "telefonDw": "460",
+            "sprechstunde": "Mittwoch 11:30 - 12:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/h%C3%B6fner-johann-fl-dipl-p%C3%A4d-e-005.html"
+        },
+        {
+            "name": "Reischl Stefan, FL BEd.",
+            "raum": "E108",
+            "telefonDw": "454",
+            "sprechstunde": "Mittwoch 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/reischl-stefan-fl-bed-e-108.html"
+        },
+        {
+            "name": "Diemling Josef, OSR, Dipl.-Päd.",
+            "raum": "E112",
+            "telefonDw": "452",
+            "sprechstunde": "Donnerstag 11:15 - 12:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/diemling-josef-osr-dipl-p%C3%A4d-e-112.html"
+        },
+        {
+            "name": "Malli Franz, Mst.",
+            "raum": "E112",
+            "telefonDw": "480",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/malli-franz-mst-e-112.html"
+        },
+        {
+            "name": "Rehrl Robert, FL BEd.",
+            "raum": "E112",
+            "telefonDw": "480",
+            "sprechstunde": "1Semester: Montag 17:00-18:00Uhr, 2Semester: Freitag 17:00-18:00 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/rehrl-robert-fl-bed-e-112.html"
+        },
+        {
+            "name": "Stelzer Leopold, FL Dipl.-Päd.",
+            "raum": "E112",
+            "telefonDw": "480",
+            "sprechstunde": "Donnerstag, 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/stelzer-leopold-fl-dipl-p%C3%A4d-e-112.html"
+        },
+        {
+            "name": "Wallner Josef, FL Ing. BEd,",
+            "raum": "E112",
+            "telefonDw": "480",
+            "sprechstunde": "Dienstag 07:45 - 08:35 Uhr (Raum E109)",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/wallner-josef-fl-ing-bed-e-112.html"
+        },
+        {
+            "name": "Andorfer Robert, FL Ing. BEd.",
+            "raum": "E120",
+            "telefonDw": "384",
+            "sprechstunde": "Montag 11:35 - 12:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/andorfer-robert-fl-ing-bed-e-120.html"
+        },
+        {
+            "name": "Egger Gerhard, FL Dipl.-Päd.",
+            "raum": "E120",
+            "telefonDw": "384",
+            "sprechstunde": "Dienstag 11:30 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/egger-gerhard-fl-dipl-p%C3%A4d-e-120.html"
+        },
+        {
+            "name": "Haslauer Anton, Prof. Ing. Dipl.-Päd. BEd",
+            "raum": "E120",
+            "telefonDw": "384",
+            "sprechstunde": "Freitag 11:30 - 12:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/haslauer-anton-prof-ing-dipl-p%C3%A4d-bed-e-120.html"
+        },
+        {
+            "name": "Rieser Franz, FL BEd",
+            "raum": "E120",
+            "telefonDw": "384",
+            "sprechstunde": "Mittwoch 11:30 - 12:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/rieser-franz-fl-bed-e-120.html"
+        },
+        {
+            "name": "Pöttinger Robert, FL Ing. BEd",
+            "raum": "E211",
+            "telefonDw": "555",
+            "sprechstunde": "Donnerstag 11:25 - 12:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/p%C3%B6ttinger-robert-fl-ing-bed-e-211.html"
+        },
+        {
+            "name": "Eichberger Rudolf, FL Ing. BEd.",
+            "raum": "E215",
+            "telefonDw": "580",
+            "sprechstunde": "Montag 12:30-13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/eichberger-rudolf-fl-ing-bed-e-215.html"
+        },
+        {
+            "name": "Gotthardt Doris, FL Ing. BEd.",
+            "raum": "E215",
+            "telefonDw": "580",
+            "sprechstunde": "Dienstag 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/gotthardt-doris-fl-ing-bed-e-215.html"
+        },
+        {
+            "name": "Hauser Peter, FL Dipl.-Ing. BEd. BSc",
+            "raum": "E215",
+            "telefonDw": "580",
+            "sprechstunde": "Montag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/hauser-peter-fl-dipl-ing-bed-bsc-e-215.html"
+        },
+        {
+            "name": "Patzak Bernhard, FL Ing. BEd. MEd.",
+            "raum": "E215",
+            "telefonDw": "580",
+            "sprechstunde": "Dienstag 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/patzak-bernhard-fl-ing-bed-med-e-215.html"
+        },
+        {
+            "name": "Putz Walter, Prof. Dipl.-Ing. (FH)",
+            "raum": "E215",
+            "telefonDw": "580",
+            "sprechstunde": "Montag 09:45-10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/putz-walter-prof-dipl-ing-fh-e-215.html"
+        },
+        {
+            "name": "Praschinger Martin, FL Ing. BEd",
+            "raum": "E216",
+            "telefonDw": "551",
+            "sprechstunde": "Mittwoch 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/praschinger-martin-fl-ing-bed-e-216.html"
+        },
+        {
+            "name": "Thalmayr Mario, Ing.",
+            "raum": "E220",
+            "telefonDw": "560",
+            "sprechstunde": "Mittwoch 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/thalmayr-mario-ing-e-220.html"
+        },
+        {
+            "name": "Eisenschenk Richard, BSc. MSc.",
+            "raum": "F014",
+            "telefonDw": "650",
+            "sprechstunde": "Montag 11:45 - 12:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/eisenschenk-richard-bsc-msc-f-014.html"
+        },
+        {
+            "name": "Laimer Hans Georg, FL Mst. Ing. BEd.",
+            "raum": "F014",
+            "telefonDw": "650",
+            "sprechstunde": "Montag 11:35 - 12:05 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/laimer-hans-georg-fl-mst-ing-bed-f-014.html"
+        },
+        {
+            "name": "Laimer Josef, FL Ing. BEd",
+            "raum": "F014",
+            "telefonDw": "650",
+            "sprechstunde": "Montag 11:45 - 12:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/laimer-josef-fl-ing-bed-f-014.html"
+        },
+        {
+            "name": "Wimmer Christoph",
+            "raum": "F014",
+            "telefonDw": "650",
+            "sprechstunde": "-",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/wimmer-christoph-f-014.html"
+        },
+        {
+            "name": "Mayer Gerald, FL BEd. MEd.",
+            "raum": "F015",
+            "telefonDw": "651",
+            "sprechstunde": "Montag 11:25 - 12:15 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/mayer-gerald-fl-bed-med-f-015.html"
+        },
+        {
+            "name": "Mooslechner Heimo, FL Ing. Dipl.-Päd.",
+            "raum": "F015",
+            "telefonDw": "651",
+            "sprechstunde": "Donnerstrag 12:30 - 13:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/mooslechner-heimo-fl-ing-dipl-p%C3%A4d-f-015.html"
+        },
+        {
+            "name": "Pfarrkirchner Christian, FL BEd",
+            "raum": "F015",
+            "telefonDw": "651",
+            "sprechstunde": "Montag 12:00 - 13:00 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/pfarrkirchner-christian-fl-bed-f-015.html"
+        },
+        {
+            "name": "Pfarrkirchner Martin, WL FL Ing. BEd",
+            "raum": "F016",
+            "telefonDw": "610",
+            "sprechstunde": "Mittwoch 12:20 - 13:00 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/pfarrkirchner-martin-wl-fl-ing-bed-f-016.html"
+        },
+        {
+            "name": "Preuss Philip, Prof. Bakk. techn.",
+            "raum": "G 005/ G 008",
+            "telefonDw": "710",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/preuss-philip-prof-bakk-techn-g-005-g-008.html"
+        },
+        {
+            "name": "Bauer Martin, Prof. Mag.(FH)",
+            "raum": "G008",
+            "telefonDw": "710",
+            "sprechstunde": "Donnerstag 10:40 - 11:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/bauer-martin-prof-mag-fh-g-008.html"
+        },
+        {
+            "name": "Hederer Alexander, Prof. Dipl.-Ing. (FH)",
+            "raum": "G008",
+            "telefonDw": "710",
+            "sprechstunde": "Montag 12:30-13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/hederer-alexander-prof-dipl-ing-fh-g-008.html"
+        },
+        {
+            "name": "Köhnlein Florian, FL Ing.",
+            "raum": "G008",
+            "telefonDw": "710",
+            "sprechstunde": "Donnerstag 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/k%C3%B6hnlein-florian-fl-ing-g-008.html"
+        },
+        {
+            "name": "Lindner Gunnar, Prof. Dipl.-Ing. (FH)",
+            "raum": "G008",
+            "telefonDw": "710",
+            "sprechstunde": "Donnerstag 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/lindner-gunnar-prof-dipl-ing-fh-g-008.html"
+        },
+        {
+            "name": "Saletu Dominic, Prof. Dipl.-Ing. (FH)",
+            "raum": "G008",
+            "telefonDw": "710",
+            "sprechstunde": "Montag 12:30-13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/saletu-dominic-prof-dipl-ing-fh-g-008.html"
+        },
+        {
+            "name": "Schröck Wolfgang, Prof. MA BSc",
+            "raum": "G008",
+            "telefonDw": "710",
+            "sprechstunde": "Mittwoch 14:20 - 15:10 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/schr%C3%B6ck-wolfgang-prof-ma-bsc-g-008.html"
+        },
+        {
+            "name": "Wiesenegger Stefan, Prof. MA",
+            "raum": "G008",
+            "telefonDw": "710",
+            "sprechstunde": "nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/wiesenegger-stefan-prof-ma-g-008.html"
+        },
+        {
+            "name": "Zehentner Simon, Prof. DI (FH) MA",
+            "raum": "G008",
+            "telefonDw": "710",
+            "sprechstunde": "Montag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/zehentner-simon-prof-di-fh-ma-g-008.html"
+        },
+        {
+            "name": "Gruber Wilfried, Prof. MA",
+            "raum": "G009",
+            "telefonDw": "750",
+            "sprechstunde": "Dienstag 12:30 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/gruber-wilfried-prof-ma-g-009.html"
+        },
+        {
+            "name": "Hoppenthaler Nikolaus, Prof. Mag. (FH)",
+            "raum": "G009",
+            "telefonDw": "750",
+            "sprechstunde": "Donnerstag 10:40 - 11:30 Uhr nach Vereinbarung",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/hoppenthaler-nikolaus-prof-mag-fh-g-009.html"
+        },
+        {
+            "name": "Meerwald-Stadler Susanne, Prof. Dipl.-Ing.",
+            "raum": "G009",
+            "telefonDw": "750",
+            "sprechstunde": "Freitag 09:45 - 10:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/meerwald-stadler-susanne-prof-dipl-ing-g-009.html"
+        },
+        {
+            "name": "Moser Christiane, Prof. Dipl.-Ing. Dr.",
+            "raum": "G009",
+            "telefonDw": "750",
+            "sprechstunde": "Mittwoch 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/moser-christiane-prof-dipl-ing-dr-g-009.html"
+        },
+        {
+            "name": "Moser Daniela, Prof. Dipl.-Ing. (FH)",
+            "raum": "G009",
+            "telefonDw": "750",
+            "sprechstunde": "Dienstag 07:45 - 08:35 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/moser-daniela-prof-dipl-ing-fh-g-009.html"
+        },
+        {
+            "name": "Neudorfer Elisabeth, FOL Dipl.-Ing.",
+            "raum": "G009",
+            "telefonDw": "750",
+            "sprechstunde": "Mittwoch 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/neudorfer-elisabeth-fol-dipl-ing-g-009.html"
+        },
+        {
+            "name": "Schöberl Viktoria, Prof. Mag. Art.",
+            "raum": "G009",
+            "telefonDw": "750",
+            "sprechstunde": "Mittwoch 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/sch%C3%B6berl-viktoria-prof-mag-art-g-009.html"
+        },
+        {
+            "name": "Weiser Martin, FL BEd",
+            "raum": "G109",
+            "telefonDw": "354",
+            "sprechstunde": "Freitag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/weiser-martin-fl-bed-g-109.html"
+        },
+        {
+            "name": "Eder Thomas, OSR WL Dipl. Päd.",
+            "raum": "G112",
+            "telefonDw": "410",
+            "sprechstunde": "Dienstag 08:30 - 09:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/eder-thomas-osr-wl-dipl-p%C3%A4d-g-112.html"
+        },
+        {
+            "name": "Pointl Walter, WL, FL Ing. BEd",
+            "raum": "G112",
+            "telefonDw": "310",
+            "sprechstunde": "Mittwoch 12:3 - 13:20 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/pointl-walter-wl-fl-ing-bed-g-112.html"
+        },
+        {
+            "name": "Pölzer Herbert, WL Ing. Dipl.-Päd. BEd",
+            "raum": "G112",
+            "telefonDw": "510",
+            "sprechstunde": "Freitag 08:40 - 09:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/p%C3%B6lzer-herbert-wl-ing-dipl-p%C3%A4d-bed-g-112.html"
+        },
+        {
+            "name": "Bliem Andreas, FL Dipl.-Päd.",
+            "raum": "G118",
+            "telefonDw": "362",
+            "sprechstunde": "Dienstag 11:30 - 12:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/bliem-andreas-fl-dipl-p%C3%A4d-g-118.html"
+        },
+        {
+            "name": "Pichler Franz, FOL Dipl.-Päd.",
+            "raum": "G118",
+            "telefonDw": "362",
+            "sprechstunde": "Freitag 11:35 - 12:25 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/pichler-franz-fol-dipl-p%C3%A4d-g-118.html"
+        },
+        {
+            "name": "Putz Norbert, FL Mst. BEd,",
+            "raum": "G118",
+            "telefonDw": "362",
+            "sprechstunde": "Montag 09:45-10:35 Uhr, (Terminausgabe bitte über Teams)",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/putz-norbert-fl-mst-bed-g-118.html"
+        },
+        {
+            "name": "Unterberger Andreas, FL Dipl. Päd. BEd",
+            "raum": "G118",
+            "telefonDw": "362",
+            "sprechstunde": "Mittwoch 11:30 - 12:30 Uhr",
+            "url": "https://www.htl-salzburg.ac.at/lehrerinnen-details/unterberger-andreas-fl-dipl-p%C3%A4d-bed-g-118.html"
+        }
+    ]
+}
