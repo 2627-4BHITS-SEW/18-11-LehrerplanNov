@@ -12,7 +12,9 @@ namespace Lehrerplan
     /// </summary>
     public class LehrerplanManager : MonoBehaviour
     {
-        public static LehrerplanManager Instanz { get; private set; }
+        static LehrerplanManager instanz;
+        public static LehrerplanManager Instanz =>
+            instanz != null ? instanz : (instanz = FindFirstObjectByType<LehrerplanManager>());
 
         [Header("Stockwerke")]
         public GameObject[] stockwerke;
@@ -30,7 +32,7 @@ namespace Lehrerplan
 
         void Awake()
         {
-            Instanz = this;
+            instanz = this;
             Laden();
         }
 
@@ -62,8 +64,11 @@ namespace Lehrerplan
                 .ToDictionary(g => g.Key, g => g.OrderBy(l => l.name).ToList());
         }
 
-        public List<Lehrer> LehrerInRaum(string raum) =>
-            nachRaum.TryGetValue(raum, out var liste) ? liste : new List<Lehrer>();
+        public List<Lehrer> LehrerInRaum(string raum)
+        {
+            if (daten == null) Laden();   // z.B. nach einem Domain-Reload im Editor
+            return nachRaum.TryGetValue(raum, out var liste) ? liste : new List<Lehrer>();
+        }
 
         /// <summary>Telefonnummer des Raums: Zentrale + Durchwahl(en) der Lehrer im Kabinett.</summary>
         public string TelefonVonRaum(string raum)
@@ -82,7 +87,7 @@ namespace Lehrerplan
             for (int i = 0; i < stockwerke.Length; i++)
                 stockwerke[i].SetActive(i == index);
             for (int i = 0; i < stockwerkButtons.Length; i++)
-                stockwerkButtons[i].image.color = i == index ? new Color(0.20f, 0.45f, 0.75f) : new Color(0.55f, 0.6f, 0.65f);
+                stockwerkButtons[i].image.color = i == index ? new Color(0.05f, 0.35f, 0.70f) : new Color(0.30f, 0.34f, 0.40f);
             SchliesseInfo();
         }
 
@@ -105,7 +110,6 @@ namespace Lehrerplan
                     sb.Append("   Sprechstunde: ")
                       .Append(string.IsNullOrWhiteSpace(l.sprechstunde) ? "keine Angabe" : l.sprechstunde)
                       .Append('\n');
-                    sb.Append('\n');
                 }
             }
             infoLehrer.text = sb.ToString().TrimEnd();

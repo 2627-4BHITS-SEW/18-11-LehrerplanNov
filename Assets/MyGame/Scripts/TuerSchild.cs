@@ -15,10 +15,14 @@ namespace Lehrerplan
         public Text nummerText;
         public Text namenText;
 
-        void Start()
+        void Awake()
         {
             GetComponent<Button>().onClick.AddListener(() => LehrerplanManager.Instanz.ZeigeRaum(raumNummer));
+        }
 
+        // OnEnable statt Start: läuft sofort, wenn das Stockwerk eingeblendet wird
+        void OnEnable()
+        {
             nummerText.text = raumNummer;
             var lehrer = LehrerplanManager.Instanz.LehrerInRaum(raumNummer);
             namenText.text = lehrer.Count == 0
